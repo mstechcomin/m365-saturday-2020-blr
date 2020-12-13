@@ -8,26 +8,33 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1 | Keynote | Venkatarangan Thirumalai | Developing low-code apps with Power Apps and Azure AI | [Blog](https://venkatarangan.com/blog/2020/12/developing-low-code-apps-with-microsoft-power-apps-and-ai-builder/  "Venkatarangan's Personal Blog")  |
-| 2 | Developer | Dipti Chhatrapati & Manoj Mittal | Grow your SharePoint development platform with SharePoint Framework | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
-| 3 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
-| 4 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
-| 5 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | [SlideShare](https://www.slideshare.net/ramana16/sps-bangalore2019-make-with-photography-and-azure-cognitive-services "Ramana's Personal SlideShare") |
-| 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/building-solutions-with-spfx-that-work-across-sharepoint-and-teams "Vignesh's Personal SlideShare") |
-| 7 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | [SlideShare](https://www.slideshare.net/secret/ARSSMYGlvMZvgh "Nanddeep's Personal SlideShare") |
-| 8 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
-| 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | [SlideShare](https://www.slideshare.net/JenkinsNs/architecting-your-intranet-with-sharepoint-modernization "Jenkin's Personal SlideShare") |
-| 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
-| 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | N/A |
-| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | [SlideShare](https://www.slideshare.net/mitul2020/bringing-artificial-intelligence-ai-to-business-users-with-microsoft-power-platform "Mitul's Personal SlideShare") / [Code](https://github.com/mitul1986/AIBuilderStartupKit "Mitul's GitHub") |
-| 13 | ITPro | Chendrayan V | Business Process Automation using PowerShell with SharePoint | TDB |
+| 1  | Keynote | Venkatarangan Thirumalai | Developing low-code apps with Power Apps and Azure AI | [Blog](https://venkatarangan.com/blog/2020/12/developing-low-code-apps-with-microsoft-power-apps-and-ai-builder/  "Venkatarangan's Personal Blog")  |
+| 2  | Developer | Siddharth Vaghasia | Let's Explore Microsoft Teams Graph API | [GitHub](https://github.com/siddharth-vaghasia/public-docs/blob/master/M365BLR-ExploreTeamsAPI-SiddharthVaghasia.pptx "Siddharth Vaghasia's Personal GitHub") |
+| 3  | Developer | Prasham Sabadra | Creating Microsoft Teams tab with the Microsoft Graph Toolkit | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 4  | Developer | Kirti Prajapati | Webhooks in Microsoft Teams | [PPT](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Presentation") [Code](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/main/code/OutgoingWHSample.zip "Code") |
+| 5  | Developer | Eldert Grootenboer | Take back your time; Let AI do the work for you! | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 6  | Developer | Ram Prasad Meenavalli | Design a chatbot with Power Virtual Agents. No more development | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 7  | Developer | Alaa Bitar | Adaptive Cards + SharePoint Lists + PowerAutomate + PowerApps = On Boarding Process | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 8  | Developer | Manoj Mittal | Implement SPFx Solution Continuous Integration & Continuous Development using Azure DevOps | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 9  | Developer | Giuliano De Luca | Building real-time processes and notifications on Microsoft 365 with webhooks | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 10 | Developer | Nicole Enders | Become a Business Application Superstar in 5 steps | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 11 | IT Pro | Nanddeep Nachan & Smita Nachan | Introduction to Microsoft Dataverse for Teams | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 12 | IT Pro | Kunal Kankariya | Automate content processing with SharePoint Syntex | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 13 | IT Pro | SkandaRamana Suryanarayana | The Rules of Migration | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 14 | IT Pro | Chendrayan Venkatesan | Managing Microsoft 365 with PowerShell | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 15 | IT Pro | Hans Brender | The Cloud in my handbag | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 18 | IT Pro | Chirag Patel | Understanding Security and Compliance in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") |
+| 19 | IT Pro | Manpreet Singh | Introducing Microsoft Graph Connectors | [OneDrive](https://github.com/mstechcomin "TBD") |
+
 
 ## Event Photos
-Event Photos are uploaded on SPBangalore Facebook Group.  You can find them here in this [Facebook Group Photo Album](https://www.facebook.com/media/set/?set=oa.2455615804681191&type=3 "Facebook Group Photo Album"). 
+TBD 
 
 ## SharePoint/Office365/Microsoft User Groups in Bangalore
 These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
-* SharePoint Bangalore | [Facebook](https://www.facebook.com/groups/spbangalore/ "Facebook") | [Twitter](https://twitter.com/spbangalore "Twitter")
+* M365 Bangalore | [Facebook](https://www.facebook.com/groups/m365blr/ "Facebook") | [Twitter](https://twitter.com/m365blr "Twitter")
 
 * Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
 
@@ -47,4 +54,4 @@ These are links to Microsoft Technology related User Groups that runs in-person 
 
 * Want to find out global SharePoint Saturday events? Visit [SPSEvents](http://www.spsevents.org/ "SharePoint Saturdays Home Page")
 
-* SPSBangalore Event Page [SPSBangalore](http://www.spsevents.org/city/Bangalore/Bangalore2018/ "SPSBangalore 01-Sep-2018")
+* M365Saturday Bangalore Event Page [M365BLR](https://www.spsevents.org/event/bangaloresps2020/ "M365BLR 12-Dec-2020")
