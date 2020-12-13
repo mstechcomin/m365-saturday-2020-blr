@@ -21,7 +21,7 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 | 11 | IT Pro | Nanddeep Nachan & Smita Nachan | Introduction to Microsoft Dataverse for Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Introduction-to-Microsoft-Dataverse-for-Teams_Nanddeep-Nachan-and-Smita-Nachan_M365BLR2020.pdf?raw=true "Slides") |
 | 12 | IT Pro | Kunal Kankariya | Automate content processing with SharePoint Syntex | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Automate-content-processing-with-SharePoint-Syntex_Kunal-Kankariya_M365BLR2020.pdf?raw=true "Slides") |
 | 13 | IT Pro | SkandaRamana Suryanarayana | The Rules of Migration | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
-| 14 | IT Pro | Chendrayan Venkatesan | Managing Microsoft 365 with PowerShell | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
+| 14 | IT Pro | Chendrayan Venkatesan | Managing Microsoft 365 with PowerShell | [Slides](https://about-powershell.visualstudio.com/_git/Microsoft-365 "Chen's Personal Blog") |
 | 15 | IT Pro | Hans Brender | The Cloud in my handbag | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Microsoft-Search-the-what-the-why-and-the-how_Kevin-McDonnell_M365BLR2020.pdf?raw=true "Slides") |
