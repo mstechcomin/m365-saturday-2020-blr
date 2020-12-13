@@ -25,7 +25,7 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 | 15 | IT Pro | Hans Brender | The Cloud in my handbag | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Microsoft-Search-the-what-the-why-and-the-how_Kevin-McDonnell_M365BLR2020.pdf?raw=true "Slides") |
-| 18 | IT Pro | Chirag Patel | Understanding Security and Compliance in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
+| 18 | IT Pro | Chirag Patel | Understanding Security and Compliance in Microsoft Teams | [Slideshare](https://www.slideshare.net/techChirag/understanding-security-and-compliance-in-microsoft-teams-m365-saturday-bangalore-2020 "Chirag's Personal Slideshare ") |
 | 19 | IT Pro | Manpreet Singh | Introducing Microsoft Graph Connectors | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 
 
