@@ -13,18 +13,18 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 | 3  | Developer | Prasham Sabadra | Creating Microsoft Teams tab with the Microsoft Graph Toolkit | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 4  | Developer | Kirti Prajapati | Webhooks in Microsoft Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Webhooks-in-Microsoft-Teams_Kirti-Prajapati_M365BLR2020.pdf?raw=true "Slides") / [Code](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/main/code/OutgoingWHSample.zip "Code") |
 | 5  | Developer | Eldert Grootenboer | Take back your time; Let AI do the work for you! | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
-| 6  | Developer | Ram Prasad Meenavalli | Design a chatbot with Power Virtual Agents. No more development | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
-| 7  | Developer | Alaa Bitar | Adaptive Cards + SharePoint Lists + PowerAutomate + PowerApps = On Boarding Process | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
+| 6  | Developer | Ram Prasad Meenavalli | Design a chatbot with Power Virtual Agents. No more development | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Design-a-chatbot-with-Power-Virtual-Agents-No-more-development_Ram-Prasad-Meenavalli_M365BLR2020.pdf?raw=true "Slides") |
+| 7  | Developer | Alaa Bitar | Adaptive Cards + SharePoint Lists + PowerAutomate + PowerApps = On Boarding Process | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Adaptive-Cards-+-SharePoint-Lists-+-PowerAutomate-+-PowerApps-=-On-Boarding-Process_Alaa-Bitar_M365BLR2020.pdf?raw=true "Slides") |
 | 8  | Developer | Manoj Mittal | Implement SPFx Solution Continuous Integration & Continuous Development using Azure DevOps | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 9  | Developer | Giuliano De Luca | Building real-time processes and notifications on Microsoft 365 with webhooks | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
-| 10 | Developer | Nicole Enders | Become a Business Application Superstar in 5 steps | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
-| 11 | IT Pro | Nanddeep Nachan & Smita Nachan | Introduction to Microsoft Dataverse for Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Introduction-to-Microsoft-Dataverse-for-Teams_Nanddeep-Nachan-and-Smita-Nachan_M365BLR2020?raw=true "Slides") |
+| 10 | Developer | Nicole Enders | Become a Business Application Superstar in 5 steps | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Become-a-Business-Application-Superstar-in-5-steps_Nicole-Enders_M365BLR2020.pdf?raw=true "Slides") |
+| 11 | IT Pro | Nanddeep Nachan & Smita Nachan | Introduction to Microsoft Dataverse for Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Introduction-to-Microsoft-Dataverse-for-Teams_Nanddeep-Nachan-and-Smita-Nachan_M365BLR2020.pdf?raw=true "Slides") |
 | 12 | IT Pro | Kunal Kankariya | Automate content processing with SharePoint Syntex | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Automate-content-processing-with-SharePoint-Syntex_Kunal-Kankariya_M365BLR2020.pdf?raw=true "Slides") |
 | 13 | IT Pro | SkandaRamana Suryanarayana | The Rules of Migration | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 14 | IT Pro | Chendrayan Venkatesan | Managing Microsoft 365 with PowerShell | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 15 | IT Pro | Hans Brender | The Cloud in my handbag | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
-| 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
+| 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Microsoft-Search-the-what-the-why-and-the-how_Kevin-McDonnell_M365BLR2020.pdf?raw=true "Slides") |
 | 18 | IT Pro | Chirag Patel | Understanding Security and Compliance in Microsoft Teams | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 | 19 | IT Pro | Manpreet Singh | Introducing Microsoft Graph Connectors | [OneDrive](https://github.com/mstechcomin "TBD") :question: |
 
