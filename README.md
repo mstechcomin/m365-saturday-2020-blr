@@ -23,7 +23,7 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 | 13 | IT Pro | SkandaRamana Suryanarayana | The Rules of Migration | [Slides](https://www.slideshare.net/ramana16/the-rules-of-migration "Ramana's Personal Slideshare") |
 | 14 | IT Pro | Chendrayan Venkatesan | Managing Microsoft 365 with PowerShell | [Slides](https://about-powershell.visualstudio.com/_git/Microsoft-365 "Chen's Personal Blog") |
 | 15 | IT Pro | Hans Brender | The Cloud in my handbag | [Slides](https://mvphb-my.sharepoint.com/:p:/g/personal/hans_brender_hbsoft_de/EeiORGm4tydHgp_QBxobphsBisHDavZOqC4qMNrlzLIROg?e=I7Lx43 "Hans' Personal OneDrive") |
-| 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [TBD](https://github.com/mstechcomin "TBD") :question: |
+| 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Approvals-in-Microsoft-Teams_Marcin-Siewnicki_M365BLR2020.pdf?raw=true "Slides") |
 | 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Microsoft-Search-the-what-the-why-and-the-how_Kevin-McDonnell_M365BLR2020.pdf?raw=true "Slides") |
 | 18 | IT Pro | Chirag Patel | Understanding Security and Compliance in Microsoft Teams | [Slideshare](https://www.slideshare.net/techChirag/understanding-security-and-compliance-in-microsoft-teams-m365-saturday-bangalore-2020 "Chirag's Personal Slideshare ") |
 | 19 | IT Pro | Manpreet Singh | Introducing Microsoft Graph Connectors | [TBD](https://github.com/mstechcomin "TBD") :question: |
