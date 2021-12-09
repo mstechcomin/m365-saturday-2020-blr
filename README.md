@@ -4,8 +4,6 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 
 ## Session Presentations
 
-## ********* Work In Progress ******* 
-
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
 | 1  | Keynote | Venkatarangan Thirumalai | Developing low-code apps with Power Apps and Azure AI | [Blog](https://venkatarangan.com/blog/2020/12/developing-low-code-apps-with-microsoft-power-apps-and-ai-builder/  "Venkatarangan's Personal Blog")  |
